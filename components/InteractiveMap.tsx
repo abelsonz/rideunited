@@ -16,7 +16,7 @@ interface InteractiveMapProps {
 }
 
 // Set Mapbox access token
-mapboxgl.accessToken = 'pk.eyJ1IjoiYWJlbHNvbnoiLCJhIjoiY21oYmc5MWNjMHVvMjJpcHp2OGFlOTB1byJ9.K3MIFnyO6tc9Dp0at2flYg';
+mapboxgl.accessToken = 'sk.eyJ1IjoiYWJlbHNvbnoiLCJhIjoiY21pcTZsNm9kMDk4eTNjbjBsa3l5d2Q1YyJ9.wgSMDlXIvKc111hD2NB6pg';
 
 // Google Places API key
 const GOOGLE_MAPS_API_KEY = 'AIzaSyAxqDg0D4g8Ye1u0JRaH-WLY1EzKP7VSI4';
